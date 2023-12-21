@@ -1,3 +1,5 @@
+# Random Password Generator
+
 🛡️ Random Password Generator: Your Key to Strong and Secure Passwords
 
 Random Password Generator; it's your fortress against cyber threats. Crafted with simplicity and power, it empowers you to create robust passwords effortlessly. Tailor the strength, embrace a user-friendly interface, and elevate your security seamlessly.
