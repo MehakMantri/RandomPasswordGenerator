@@ -31,6 +31,6 @@ Copy the generated password and strengthen your accounts.
 Contributions are more than welcome! Feel free to submit bug reports or share your ideas through the issue tracker.
 
 🚀 Demo
-Check out the live demo : mehakmantri.github.io/RandomPasswordGenerator/
+Check out the live demo : https://mehakmantri.github.io/RandomPasswordGenerator/
 
 Random Password Generator: Your Key to Strong and Secure Passwords 🌐🔐
